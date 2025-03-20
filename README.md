@@ -15,4 +15,4 @@ The dataset was downloaded from the official website, and Potsdam and Vaihingen 
 ## Using
 You can train using,`python train_supervision.py` test on the Vaihingen dataset using `python vaihingen_test.py`，test on the Potsdam dataset using `python potsdam_test.py`,  and test on the LoveDA dataset using `python loveda_test.py`.  
 
-
+### We will continue to update the code repository！
